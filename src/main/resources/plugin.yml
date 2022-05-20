@@ -1,0 +1,4 @@
+name: Vapor
+version: '${project.version}'
+main: dev.astro.net.Vapor
+authors: [ Mansitoh, Daaz ]
